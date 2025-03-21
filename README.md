@@ -24,7 +24,6 @@ An innovative web application designed to help users report and retrieve lost it
 
 ### ✅ Location-Based Search
 - Users can search for lost/found items based on location.
-- Google Maps API integration to display locations where items were lost or found.
 
 ### ✅ Notifications & Alerts
 - Get notified when a potential match for a lost/found item is found.
